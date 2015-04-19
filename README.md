@@ -1,2 +1,3 @@
 # docs
-Documents
+
+Go to [wiki](wiki/)
