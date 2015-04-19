@@ -1,3 +1,3 @@
 # docs
 
-Go to [wiki](wiki/)
+Go to [wiki](/pressian/docs/wiki/)
